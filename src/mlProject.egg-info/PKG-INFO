@@ -1,0 +1,18 @@
+Metadata-Version: 2.2
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/rrlcs/End-to-end-ML-Project-with-MLflow
+Author: rrlcs
+Author-email: er.raviraja.rr@gmail.com
+Project-URL: Bug Tracker, https://github.com/rrlcs/End-to-end-ML-Project-with-MLflow/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# End-to-End-Machine-Learning-Project-with-MLflow
+End to End Machine Learning Project with MLflow
